@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
-
 I am a Software Test Automation Engineer.
 
 Skills learned:
@@ -17,7 +15,7 @@ My most used languages on GitHub:
 
 ![TopLangs](<https://github-readme-stats.vercel.app/api/top-langs/?username=shubicus>)
 
-Check out my CV: [Vadym_Shubkin_QA_Automation_CV](<https://shubicus.github.io/my-cv>)
+Check out my CV: [Vadym_Shubkin_QA_Automation_CV](<https://github.com/shubicus/my-cv/tree/main/cv>)
 
 <!--
 **shubicus/shubicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
