@@ -2,7 +2,7 @@
 
 I am a Software Test Automation Engineer.
 
-I have experience in next Domains: Business Intelligence, Travel, E-Commerce, IP-Telephony.
+I have experience in next domains: Business Intelligence, Travel, E-Commerce, IP-Telephony.
 
 -------------------------------------------------------------------------------------------
 
@@ -53,7 +53,7 @@ My most used languages on GitHub:
 
 ![TopLangs](<https://github-readme-stats.vercel.app/api/top-langs/?username=shubicus>)
 
-You can find out more information in the CV: [Vadym_Shubkin_QA_Automation_CV](<https://github.com/shubicus/my-cv/tree/main/cv>)
+You can find out more information in the CV: [Vadym_Shubkin_QA_Automation_CV](<https://github.com/shubicus/my-cv/blob/main/cv/VadymShubkin_CV_2023_1.pdf>)
 
 <!--
 **shubicus/shubicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
