@@ -2,7 +2,7 @@
 
 I am a Software Test Automation Engineer.
 
-I have experience in next domains: Business Intelligence, Travel, E-Commerce, IP-Telephony.
+I have experience in next domains: Business Intelligence, Travel, E-Commerce, Telecom/Communications.
 
 -------------------------------------------------------------------------------------------
 
