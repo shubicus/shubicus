@@ -51,8 +51,7 @@ OS:
 
 
 My most used languages on GitHub:
-
-![TopLangs](<https://github-readme-stats.vercel.app/api/top-langs/?username=shubicus>)
+xxx
 
 You can find out more information in the CV: [Vadym_Shubkin_QA_Automation_CV-site](<https://shubicus.github.io/my-cv/>)
 
