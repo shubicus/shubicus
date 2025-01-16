@@ -2,11 +2,11 @@
 
 I am a Software Test Automation Engineer.
 
-I have experience in next domains: Business Intelligence, Travel, E-Commerce, Telecom/Communications.
+I have experience in next domains: FinTech, Business Intelligence, Travel, E-Commerce, Telecom/Communications.
 
 -------------------------------------------------------------------------------------------
 
-Langugaes:
+Languages:
 
 ![JAVA](<https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>)
 ![Groovy](<https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white>)
