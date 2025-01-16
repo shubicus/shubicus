@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Software Automation Engineer.
+I am - Automation Engineer / SDET / RPA
 
 I have experience in next domains: FinTech, Business Intelligence, Travel, E-Commerce, Telecom/Communications.
 
@@ -51,7 +51,12 @@ OS:
 
 
 My most used languages on GitHub:
-xxx
+
+![Top](<https://github-readme-stats.vercel.app/api/top-langs/?username=shubicus&hide=javascript,css,scss,html&theme=tokyonight>)
+
+GitHub stats
+
+![Vadym's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubicus&show_icons=true&theme=radical)
 
 You can find out more information in the CV: [Vadym_Shubkin_QA_Automation_CV-site](<https://shubicus.github.io/my-cv/>)
 
