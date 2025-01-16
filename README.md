@@ -8,10 +8,11 @@ I have experience in next domains: FinTech, Business Intelligence, Travel, E-Com
 
 Languages:
 
-![JAVA](<https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>)
+![Java](<https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white>)
 ![Groovy](<https://img.shields.io/badge/apache%20Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white>)
 ![TS](<https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white>)
 ![JS](<https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black>)
+![GO](<https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white>)
 
 
 
@@ -19,8 +20,8 @@ Tools:
 
 ![Selenium](<https://img.shields.io/badge/selenium-43B02A.svg?&style=for-the-badge&logo=selenium&logoColor=white>)
 ![Playwright](<https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white>)
-![Git](<https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white>)
 ![RestAssured](<https://img.shields.io/badge/REST_ASSURED-43B02A?style=for-the-badge&logo=RestAssured&logoColor=white>)
+![JUnit5](<https://img.shields.io/badge/Junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white>)
 ![Docker](<https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white>)
 ![AWS](<https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white>)
 
