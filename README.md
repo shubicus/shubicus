@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Software Test Automation Engineer.
+I am a Software Automation Engineer.
 
 I have experience in next domains: FinTech, Business Intelligence, Travel, E-Commerce, Telecom/Communications.
 
