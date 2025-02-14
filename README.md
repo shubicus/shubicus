@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-The closest title would be:
- Automation engineer.
+The closest title would be `Automation Engineer | Automation Developer`.
 
 What I do:
- Automation of different kinds of processes such as -
+ - Automation of different kinds of processes such as -
  software testing, business tasks, everyday PC work routines, and so on.
 
-Qualifications
+Qualifications:
  - Domains: FinTech, Business Intelligence, Travel, E-Commerce, Telecom/Communications.
  - Languages: Java, Groovy, TypeScript, Go
  - Tools: Playwright, Selenium, Selenide, Serenity, Selenoid, Cucumber, OpenAPI, Docker, JMeter, REST-assured, SparkFramework, ELK, UiPath, AWS, K8s, etc.
