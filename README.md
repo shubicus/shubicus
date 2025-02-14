@@ -1,8 +1,21 @@
 ### Hi there 👋
 
-I am - Automation Engineer / SDET / RPA
+The closest title would be:
+ Automation engineer.
 
-I have experience in next domains: FinTech, Business Intelligence, Travel, E-Commerce, Telecom/Communications.
+What I do:
+ Automation of different kinds of processes such as -
+ software testing, business tasks, everyday PC work routines, and so on.
+
+Qualifications
+ - Domains: FinTech, Business Intelligence, Travel, E-Commerce, Telecom/Communications.
+ - Languages: Java, Groovy, TypeScript, Go
+ - Tools: Playwright, Selenium, Selenide, Serenity, Selenoid, Cucumber, OpenAPI, Docker, JMeter, REST-assured, SparkFramework, ELK, UiPath, AWS, K8s, etc.
+ - CI: GitLab, GitHub, Jenkins, TeamCity.
+ - VCS: SVN, Git.
+ - OS: Windows, Linux, Mac.
+
+More detailed CV you can find here in the CV: [Vadym_Shubkin_CV](<https://shubicus.github.io/my-cv/>)
 
 -------------------------------------------------------------------------------------------
 
@@ -57,8 +70,6 @@ My most used languages on GitHub:
 GitHub stats
 
 ![Vadym's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubicus&show_icons=true&theme=radical)
-
-You can find out more information in the CV: [Vadym_Shubkin_QA_Automation_CV-site](<https://shubicus.github.io/my-cv/>)
 
 <!--
 **shubicus/shubicus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
