@@ -8,7 +8,7 @@ What I do:
 
 Qualifications:
  - Domains: FinTech, Business Intelligence, Travel, E-Commerce, Telecom/Communications.
- - Languages: Java, Groovy, TypeScript, Go
+ - Languages: Java, Groovy, TypeScript, Go.
  - Tools: Playwright, Selenium, Selenide, Serenity, Selenoid, Cucumber, OpenAPI, Docker, JMeter, REST-assured, SparkFramework, ELK, UiPath, AWS, K8s, etc.
  - CI: GitLab, GitHub, Jenkins, TeamCity.
  - VCS: SVN, Git.
